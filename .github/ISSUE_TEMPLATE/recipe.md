@@ -51,6 +51,7 @@ assignees: ''
 ===
 
 https://github.com/sile/readings/issues/143
+https://github.com/sile/readings/issues/156
 https://github.com/sile/readings/issues/141
 
 完成
